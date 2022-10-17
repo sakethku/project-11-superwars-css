@@ -1,0 +1,45 @@
+.footer {
+  margin-left: 10px;
+  font-size: 20px
+  padding:10px;
+  
+}
+
+.img {
+  height: 140px;
+  width: 120px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin-left: 50px;
+
+
+}
+
+.griditems {
+  border: 3px solid rgb(126, 113, 113);
+  box-shadow: rgba(196, 190, 190, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+  border-radius: 7px;
+  margin-right: 40px;
+  padding: 20px;
+  height: 200px;
+  width: 120px;
+  font-size: larger;
+  text-align: center;
+
+}
+
+#sd {
+  border: 2px solid white;
+  font-size: xx-large;
+  font-weight: bold;
+  box-shadow: none;
+}
+
+label {
+  font-weight: bolder;
+  font-size: xx-large;
+}      
